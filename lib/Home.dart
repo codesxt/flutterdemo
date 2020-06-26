@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:talkdemo/BasicExample.dart';
+import 'package:talkdemo/BasicExample/BasicExample.dart';
 import 'package:talkdemo/LayoutExample/LayoutExample.dart';
 import 'package:talkdemo/HttpExample/HttpExample.dart';
 import 'package:talkdemo/HeroExample/HeroExample.dart';
